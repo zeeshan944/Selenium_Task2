@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<suite parallel="false" name="abcd">
+  <test name= "LoginTest" enabled= "true">
+    <classes>
+      <class name="com.androjava.proj3.App"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

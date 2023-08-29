@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-29T09:43:23 PDT" name="Suite" finished-at="2023-08-29T09:45:35 PDT" duration-ms="132098">
+    <groups>
+    </groups>
+    <test started-at="2023-08-29T09:43:23 PDT" name="Test" finished-at="2023-08-29T09:45:35 PDT" duration-ms="132098">
+      <class name="com.androjava.proj3.Login">
+        <test-method signature="dologin()[pri:3, instance:com.androjava.proj3.Login@173ed316]" started-at="2023-08-29T09:45:27 PDT" name="dologin" finished-at="2023-08-29T09:45:35 PDT" duration-ms="7812" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dologin -->
+      </class> <!-- com.androjava.proj3.Login -->
+      <class name="com.androjava.proj3.App">
+        <test-method signature="login()[pri:0, instance:com.androjava.proj3.App@1ed4ae0f]" started-at="2023-08-29T09:43:23 PDT" name="login" finished-at="2023-08-29T09:43:23 PDT" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="dosetup()[pri:1, instance:com.androjava.proj3.App@1ed4ae0f]" started-at="2023-08-29T09:43:23 PDT" name="dosetup" finished-at="2023-08-29T09:44:47 PDT" duration-ms="83917" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dosetup -->
+        <test-method signature="openBrowser()[pri:2, instance:com.androjava.proj3.App@1ed4ae0f]" started-at="2023-08-29T09:44:47 PDT" name="openBrowser" finished-at="2023-08-29T09:45:27 PDT" duration-ms="40227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+      </class> <!-- com.androjava.proj3.App -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
